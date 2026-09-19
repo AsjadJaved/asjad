@@ -1,9 +1,17 @@
 
-haha = [1,2,3,4,5,5,6,7,8,9,10]
-print(haha)
+list = [1,True,"sadoko"]
+print(list)
 
-hehe = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five'}
-print(hehe)
+knowledge={
+    "Name": "asjad",
+    "grade" : 7,
+    "age":13,
+    "address": {
+        "city" : "krachi",
+        "country" : "pakistan"
+    }
+}
+print(knowledge)
 
-abc = {"name": "John", "age": 30, "city": "New York"}
-print(abc)
+life= {"name": "asjad", "age": 13, "city": "karachi"}
+print(life)
